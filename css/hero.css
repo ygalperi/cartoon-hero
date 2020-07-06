@@ -15,7 +15,9 @@ header{
 h1, h2{
     font-family: 'Acme', sans-serif;
 }
-
+/* header styles */
+/*comments in CSS are writeen differently than in HTML*/
+/* command + / is the shortcut to writing comments */
 header h1{
     color: orangered;
     font-size: 50px;
